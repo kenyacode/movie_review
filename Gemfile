@@ -11,7 +11,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'spring',						group: :development
-gem 'devise'
+gem 'devise', '~> 3.5', '>= 3.5.6'
 gem 'carrierwave', '~> 0.10.0'
-gem 'fog'
-gem 'rmagick'
+gem 'fog', '~> 1.37'
+gem 'rmagick', '~> 2.15', '>= 2.15.4'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
