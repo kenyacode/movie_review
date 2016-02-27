@@ -49,15 +49,23 @@ Here is the app live on Heroku [jmovie]
 
 ![pic](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/0a8/375/381adb6.jpg)
 
-###I learned to code at [generalassemb.ly] ![ga logo](https://media.licdn.com/media/p/3/005/0a3/2df/1671d50.png)
-### Contact Me [LinkedIn](https://www.linkedin.com/in/kenyacode) or [Email](mailto:kenyadevelop@gmail.com)
-###My other Apps
-####[Blog app Github](https://github.com/kenyacode/blog)  [jmblog.herokuapp.com]
-####[Raddit app repo](https://github.com/kenyacode/raddit)  [jmraddit.herokuapp.com]
-####[Pin Board repo](https://github.com/kenyacode/pin_board) [pintirest.herokuapp.com]
+####I learned to code at [generalassemb.ly] ![ga logo](https://media.licdn.com/media/p/3/005/0a3/2df/1671d50.png)
+#### Contact Me [LinkedIn](https://www.linkedin.com/in/kenyacode) or [Email](mailto:kenyadevelop@gmail.com)
+####Check out my other Apps
+Github Page    | Live Site
+-------------- | ----------
+ [Blog app]    | [jmblog.herokuapp.com]
+ [Raddit app]  | [jmraddit.herokuapp.com]
+ [Pin Board]   | [pintirest.herokuapp.com]
+ [Recipe App]  | [chakula.herokuapp.com]
 
+[Recipe App]:(https://github.com/kenyacode/recipe-app)
+[Pin Board]:(https://github.com/kenyacode/pin_board)
+[Raddit app]:(https://github.com/kenyacode/raddit)
+[Blog app]:(https://github.com/kenyacode/blog)
 [generalassemb.ly]:https://generalassemb.ly/
 [jmblog.herokuapp.com]:https://jmblog.herokuapp.com/
 [jmraddit.herokuapp.com]:https://jmraddit.herokuapp.com/
+[chakula.herokuapp.com]:https://chakula.herokuapp.com/
 [pintirest.herokuapp.com]:https://pintirest.herokuapp.com/
 [jmovie]:https://jmovie.herokuapp.com/
