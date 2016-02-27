@@ -17,8 +17,9 @@
  @import "bootstrap-sprockets";
  @import "bootstrap";
 
+	$background: gainsboro;
  body {
- 	background: #AA4847;
+ 	background: salmon;
  }
 
  .review_title {
@@ -27,6 +28,7 @@
  .reviews {
  	padding: 15px 0;
  	border-bottom: 1px solid #EAEAEA;
+
  	.star-rating {
  		padding-bottom: 8px;
  	}
