@@ -7,7 +7,7 @@ class Movie < ActiveRecord::Base
 	  if search.present?
 	    where('title LIKE ?', "%#{search}%")
 	  else
-	    wehre(true)
+	    where(id: search)
 	  end
 	end
 end
