@@ -59,13 +59,13 @@ Github Page    | Live Site
  [Pin Board]   | [pintirest.herokuapp.com]
  [Recipe App]  | [chakula.herokuapp.com]
 
-[Recipe App]:(https://github.com/kenyacode/recipe-app)
-[Pin Board]:(https://github.com/kenyacode/pin_board)
-[Raddit app]:(https://github.com/kenyacode/raddit)
-[Blog app]:(https://github.com/kenyacode/blog)
-[generalassemb.ly]:https://generalassemb.ly/
-[jmblog.herokuapp.com]:https://jmblog.herokuapp.com/
-[jmraddit.herokuapp.com]:https://jmraddit.herokuapp.com/
-[chakula.herokuapp.com]:https://chakula.herokuapp.com/
-[pintirest.herokuapp.com]:https://pintirest.herokuapp.com/
-[jmovie]:https://jmovie.herokuapp.com/
+[Recipe App]:https://github.com/kenyacode/recipe-app
+[Pin Board]:https://github.com/kenyacode/pin_board
+[Raddit app]:https://github.com/kenyacode/raddit
+[Blog app]:https://github.com/kenyacode/blog
+[generalassemb.ly]:https://generalassemb.ly
+[jmblog.herokuapp.com]:https://jmblog.herokuapp.com
+[jmraddit.herokuapp.com]:https://jmraddit.herokuapp.com
+[chakula.herokuapp.com]:https://chakula.herokuapp.com
+[pintirest.herokuapp.com]:https://pintirest.herokuapp.com
+[jmovie]:https://jmovie.herokuapp.com
