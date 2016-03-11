@@ -43,7 +43,7 @@
 				<% else %>
 					<% @reviews.each do |review| %>
 						<div class="reviews">
-							<p><%= review.comment %></p>
+							<p><%= review.comment %></p><p>reviewed by <%= review.user.email %></p>
 						</div>
 					<% end %>
 				<% end %>
