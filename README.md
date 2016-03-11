@@ -43,7 +43,7 @@ Run rake db:migrate
 
 Run rails server and go to locolhost:3000
 
-Here is the app live on Heroku [Movie Review app]
+Here is the app live on Heroku [jmovie.herokuapp.com]
 
 # ABOUT THE DEVELOPER
 
