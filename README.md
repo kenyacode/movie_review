@@ -43,7 +43,7 @@ Run rake db:migrate
 
 Run rails server and go to locolhost:3000
 
-Here is the app live on Heroku [jmovie]
+Here is the app live on Heroku [Movie Review app]
 
 # ABOUT THE DEVELOPER
 
@@ -52,20 +52,35 @@ Here is the app live on Heroku [jmovie]
 ####I learned to code at [generalassemb.ly] ![ga logo](https://media.licdn.com/media/p/3/005/0a3/2df/1671d50.png)
 #### Contact Me [LinkedIn](https://www.linkedin.com/in/kenyacode) or [Email](mailto:kenyadevelop@gmail.com)
 ####Check out my other Apps
-Github Page    | Live Site
--------------- | ----------
- [Blog app]    | [jmblog.herokuapp.com]
- [Raddit app]  | [jmraddit.herokuapp.com]
- [Pin Board]   | [pintirest.herokuapp.com]
- [Recipe App]  | [chakula.herokuapp.com]
+Github Page         | Live Site
+------------------- | ----------
+ [Blog app]         | [jmblog.herokuapp.com]
+ [Raddit app]       | [jmraddit.herokuapp.com]
+ [Recipe app]       | [chakula.herokuapp.com]
+ [Pin Board app]    | [pintirest.herokuapp.com]
+ [Movie Review app] | [jmovie.herokuapp.com]
+ [Checktodo app]    | [checktodo.herokuapp.com]
+ [Jobs Board app]   | [hire-dev.herokuapp.com]
 
-[Recipe App]:https://github.com/kenyacode/recipe-app
-[Pin Board]:https://github.com/kenyacode/pin_board
-[Raddit app]:https://github.com/kenyacode/raddit
 [Blog app]:https://github.com/kenyacode/blog
-[generalassemb.ly]:https://generalassemb.ly
 [jmblog.herokuapp.com]:https://jmblog.herokuapp.com
+
+[Raddit app]:https://github.com/kenyacode/raddit
 [jmraddit.herokuapp.com]:https://jmraddit.herokuapp.com
+
+[Recipe app]:https://github.com/kenyacode/recipe-app
 [chakula.herokuapp.com]:https://chakula.herokuapp.com
+
+[Pin Board app]:https://github.com/kenyacode/pin_board
 [pintirest.herokuapp.com]:https://pintirest.herokuapp.com
-[jmovie]:https://jmovie.herokuapp.com
+
+[Checktodo app]:https://github.com/kenyacode/checktodo
+[checktodo.herokuapp.com]:https://checktodo.herokuapp.com/
+
+[Jobs Board app]:https://github.com/kenyacode/jobs_board
+[hire-dev.herokuapp.com]:https://hire-dev.herokuapp.com
+
+[Movie Review app]:https://github.com/kenyacode/movie_review
+[jmovie.herokuapp.com]:https://jmovie.herokuapp.com
+
+[generalassemb.ly]:https://generalassemb.ly
