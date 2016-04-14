@@ -5,5 +5,5 @@ CarrierWave.configure do |config|
 		aws_secret_access_key: ENV["aws_secret_access_key"],
 		region: "us-west-1"
 	}
-	config.fog_directory = ENV["bucket_name"]
+	config.fog_directory ="movie-review-dev"
 end
