@@ -16,6 +16,7 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'fog-aws'
 gem 'mini_magick', '~> 4.4'
 gem 'github-markup', '~> 1.4'
+gem 'searchkick', '~> 1.2', '>= 1.2.1'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
